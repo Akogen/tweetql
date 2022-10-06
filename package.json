@@ -1,0 +1,28 @@
+{
+  "name": "tweetql",
+  "version": "1.0.0",
+  "description": "GraphQL API Learning Project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akogen/tweetql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akogen/tweetql/issues"
+  },
+  "homepage": "https://github.com/Akogen/tweetql#readme",
+  "dependencies": {
+    "apollo-server": "^3.10.2",
+    "graphql": "^16.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "type": "module"
+}
